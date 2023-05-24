@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Heading {
+  font-size: 40px;
+  color: red;
+  text-align: center;
+}

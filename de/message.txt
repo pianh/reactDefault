@@ -1,0 +1,153 @@
+{
+    "object": "Menu",
+    "id": 3,
+    "key": "Main_Menu",
+    "title": "Main Menu",
+    "items": [
+        {
+            "title": "Home",
+            "link": "/",
+            "target": "_self",
+            "image": null,
+            "description": null,
+            "children": []
+        },
+        {
+            "title": "Cakes",
+            "link": "/cakes",
+            "target": "_self",
+            "image": null,
+            "description": null,
+            "children": [
+                {
+                    "title": "Cakes",
+                    "link": "/cakes/cakes",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": [
+                        {
+                            "title": "Chocolate Cake",
+                            "link": "/cakes/chocolate-cake-7.html",
+                            "target": "_self",
+                            "image": null,
+                            "description": null,
+                            "children": []
+                        },
+                        {
+                            "title": "Cheesecake",
+                            "link": "/cakes/cheesecake-5.html",
+                            "target": "_self",
+                            "image": null,
+                            "description": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Cupcakes",
+                    "link": "/cakes/cupcakes",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": [
+                        {
+                            "title": "Fat Rascal",
+                            "link": "/cakes/fat-rascal-6.html",
+                            "target": "_self",
+                            "image": null,
+                            "description": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Desserts",
+                    "link": "/cakes/desserts",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": [
+                        {
+                            "title": "Bebinca",
+                            "link": "/cakes/bebinca-4.html",
+                            "target": "_self",
+                            "image": null,
+                            "description": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Trending",
+                    "link": "/cakes/g-trending",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Blogs",
+            "link": "/blogs",
+            "target": "_self",
+            "image": null,
+            "description": null,
+            "children": [
+                {
+                    "title": "Innovative Design Work to Make Your Website",
+                    "link": "/blogs/innovative-design-work-to-make-your-website-8.html",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": []
+                },
+                {
+                    "title": "Creative Guide to Make Your Portfolio an Awesome Work",
+                    "link": "/blogs/creative-guide-to-make-your-portfolio-an-awesome-work-9.html",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Trademarks",
+            "link": null,
+            "target": "_self",
+            "image": null,
+            "description": null,
+            "children": [
+                {
+                    "title": "Lumos",
+                    "link": "/cakes/t-lumos",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": []
+                },
+                {
+                    "title": "Phuc Long",
+                    "link": "/cakes/t-phuc-long",
+                    "target": "_self",
+                    "image": null,
+                    "description": null,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Profile",
+            "link": "/profile",
+            "target": "_self",
+            "image": null,
+            "description": null,
+            "children": []
+        }
+    ],
+    "real_id": 3,
+    "created_at": "2023-05-05T17:29:24.000000Z",
+    "updated_at": "2023-05-05T17:29:24.000000Z"
+}
